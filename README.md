@@ -60,7 +60,7 @@ font-family: 'Permanent Marker', cursive;
 
   </head>
   <body>
-
+<!title>
   <div class="container-fluid" id="con1">
       <div class="row">
         <div class="col-lg-8">
